@@ -1,11 +1,11 @@
 This repository contains datasets and models that can be used as samples for the bias mitigation toolkit. Each dataset corresponds to a specific learning task, as outlined below:
 
-| learning task             | dataset               |
-|---------------------------|-----------------------|
-| binary classification     | german credit dataset |
-| regression                | insurance dataset     |
-| multiclass classification | healthcare dataset    |
-| clustering                | customers dataset     |
+| learning task | dataset name | 
+| :---:   | :---: | :---: |
+| binary classification | german credit dataset | 
+| regression | insurance dataset | 
+| multiclass classification | healthcare dataset | 
+| clustering | customers dataset | 
 
 
 ## libraries
